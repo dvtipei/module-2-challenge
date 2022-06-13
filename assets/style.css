@@ -1,0 +1,28 @@
+* {
+    font-family: system-ui;
+    text-align: center;
+}
+
+
+header,
+nav ul {
+    display: flex;
+}
+
+header {
+    justify-content: space-between;
+}
+
+nav ul {
+    justify-content: flex-end;
+    list-style-type: none;
+}
+nav ul li {
+    padding: 10px 15px;
+    margin: 0px 5px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
