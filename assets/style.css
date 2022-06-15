@@ -71,6 +71,7 @@ main h2 {
 .content1 img {
     display: block;
     max-height: 275px;
+    border: rgb(59, 17, 17) solid 20px;
 }
 
 .text {
@@ -82,6 +83,23 @@ main h2 {
     border-color: black;
 }
 
+.whoami {
+    border-top: #555 10px solid;
+}
+
 #webapp {
     border: 10px solid #555; 
+}
+
+#contact {
+    margin-bottom:20px;
+    padding:50px;
+    height:200px;
+    background-color: darkred;
+    color: white;
+}
+
+.contact {
+    list-style: none;
+    text-decoration: underline;
 }
