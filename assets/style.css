@@ -103,3 +103,18 @@ main h2 {
     list-style: none;
     text-decoration: underline;
 }
+
+.myweb {
+    position: relative;
+}
+
+.myweb img {
+    display:block;
+}
+
+.imagetitle {
+    color:darkred;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
