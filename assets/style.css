@@ -56,7 +56,7 @@ main h2 {
     display: inline-block;
 }
 
-.float-left {
+.profilephoto {
     float: left;
     margin-right: 25px;
 }
@@ -75,4 +75,13 @@ main h2 {
 
 .text {
     margin-top: 20px;
+}
+
+.myweb {
+    display: flex;
+    border-color: black;
+}
+
+#webapp {
+    border: 10px solid #555; 
 }
